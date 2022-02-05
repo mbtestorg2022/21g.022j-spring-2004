@@ -24,30 +24,347 @@ Choose a topic below and try to write 4-5 pages. Your paper may be comparative 
 Thought Questions
 -----------------
 
-| SES # | TOPICS | THOUGHT QUESTIONS |
-| --- | --- | --- |
-| 1 | Introduction  {{< br >}}  {{< br >}}Film "A Veiled Revolution" | &nbsp; |
-| 2 | _Distant View of the Minaret_ | ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_ds)) |
-| 3 | _Distant View of the Minaret_ (cont.) | &nbsp; |
-| 4 | _Woman at Point Zero  {{< br >}}  {{< br >}}_Teaching Group | ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_wm)) |
-| 5 | _Woman at Point Zero_ (cont.) | &nbsp; |
-| 6 | _So Long a Letter_ | Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_s1))  {{< br >}}  {{< br >}}Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_so)) |
-| 7 | _So Long a Letter_ (cont.) | &nbsp; |
-| 8 | _Nervous Conditions_ | &nbsp; |
-| 9 | _Nervous Conditions_ (cont.) | &nbsp; |
-| 11 | _Nervous Conditions_ (cont.) | &nbsp; |
-| 12 | Chinese Short Stories  {{< br >}}  {{< br >}}Teaching Group | Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_at))  {{< br >}}  {{< br >}}Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_on_ch)) |
-| 13 | Chinese Film | &nbsp; |
-| 14 | _Oryx and Crake  {{< br >}}  {{< br >}}_Teaching Group | &nbsp; |
-| 15 | _Oryx and Crake_ (cont.) | &nbsp; |
-| 17 | Margaret Atwood in Class | &nbsp; |
-| 18 | _The Good Women of China  {{< br >}}  {{< br >}}_Teaching Group | &nbsp; |
-| 19 | _The Good Women of China_ (cont.) | &nbsp; |
-| 20 | _House of the Spirits  {{< br >}}  {{< br >}}_Teaching Group | Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_hu))  {{< br >}}  {{< br >}}Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_forhou1))  {{< br >}}  {{< br >}}Set 3 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_forhou2)) |
-| 21 | _House of the Spirits_ (cont.) | &nbsp; |
-| 22 | _House of the Spirits_ (cont.) | &nbsp; |
-| 23 | _House of the Spirits_ (cont.) | &nbsp; |
-| 25 | Japanese Films | &nbsp; |
-| 26 | _Kitchen  {{< br >}}  {{< br >}}_Teaching Group | Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_kt))  {{< br >}}  {{< br >}}Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_forkh1)) |
-| 27 | _Moonlight Shadows_ | ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_kt)) |
-| 28 | Last Day of Class  {{< br >}}  {{< br >}}Final Discussion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+THOUGHT QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+  
+Film "A Veiled Revolution"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Distant View of the Minaret_
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_ds))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Distant View of the Minaret_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Woman at Point Zero  
+  
+_Teaching Group
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_wm))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Woman at Point Zero_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_So Long a Letter_
+{{< tdclose >}}
+{{< tdopen >}}
+Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_s1))  
+  
+Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_so))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_So Long a Letter_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+_Nervous Conditions_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Nervous Conditions_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Nervous Conditions_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Chinese Short Stories  
+  
+Teaching Group
+{{< tdclose >}}
+{{< tdopen >}}
+Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_at))  
+  
+Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_on_ch))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Chinese Film
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Oryx and Crake  
+  
+_Teaching Group
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Oryx and Crake_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Margaret Atwood in Class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_The Good Women of China  
+  
+_Teaching Group
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_The Good Women of China_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_House of the Spirits  
+  
+_Teaching Group
+{{< tdclose >}}
+{{< tdopen >}}
+Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_hu))  
+  
+Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_forhou1))  
+  
+Set 3 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_forhou2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_House of the Spirits_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_House of the Spirits_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_House of the Spirits_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Japanese Films
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Kitchen  
+  
+_Teaching Group
+{{< tdclose >}}
+{{< tdopen >}}
+Set 1 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_kt))  
+  
+Set 2 ([PDF]({{< baseurl >}}/resources/mit21g_022js04_forkh1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+_Moonlight Shadows_
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21g_022js04_f_kt))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Last Day of Class  
+  
+Final Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
