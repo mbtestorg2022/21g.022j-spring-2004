@@ -4,6 +4,7 @@ description: "This resource contains the information regarding thought questions
   \ \u201Cat middle age\u201D and \u201Clove must not be forgotten\u201D."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-022j-international-womens-voices-spring-2004/28b99315e1f924406bb5b0666b599897_MIT21G_022JS04_f_at.pdf
 file_type: application/pdf
+parent_uid: 20a88969-85b1-082d-1d87-b04a88f5f0d0
 resourcetype: Document
 title: "Thought Questions for \u201CAt Middle Age\u201D and \u201CLove Must Not be\
   \ Forgotten\u201D"
